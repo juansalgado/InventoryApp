@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- These are the options displayed in the photo drop-down Spinner -->
+    <string-array name="photo_spinner">
+
+        <item>@string/photo00</item>
+        <item>@string/photo01</item>
+        <item>@string/photo02</item>
+        <item>@string/photo03</item>
+        <item>@string/photo04</item>
+        <item>@string/photo05</item>
+        <item>@string/photo06</item>
+        <item>@string/photo07</item>
+        <item>@string/photo08</item>
+        <item>@string/photo09</item>
+        <item>@string/photo11</item>
+        <item>@string/photo12</item>
+        <item>@string/photo13</item>
+        <item>@string/photo14</item>
+        <item>@string/photo15</item>
+        <item>@string/photo16</item>
+        <item>@string/photo17</item>
+        <item>@string/photo18</item>
+        <item>@string/photo19</item>
+        <item>@string/photo20</item>
+
+    </string-array>
+</resources>
